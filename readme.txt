@@ -1,2 +1,0 @@
-Hello Yanhao.
-Hello World.
